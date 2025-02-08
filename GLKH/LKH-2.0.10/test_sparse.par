@@ -1,0 +1,5 @@
+PROBLEM_FILE = /home/yeping/coverage/coverage_tsp/GLKH/LKH-2.0.10/test_sparse.tsp
+PRECISION = 1
+OUTPUT_TOUR_FILE = test_sparse.tour
+TIME_LIMIT = 100
+MAX_TRIALS = 1000
