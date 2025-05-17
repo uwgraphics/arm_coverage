@@ -2,7 +2,8 @@
 
 Implementation of our ICRA'25 paper: *Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators*
 
-[Paper link to appear] <!-- [[Pre-print](https://arxiv.org/pdf/2302.13935.pdf)]  [[Supplementary Video](https://www.youtube.com/watch?v=_QVAetYbpEY)] [[Presentation Video](https://www.youtube.com/watch?v=IKy0Yda8p4)] [[Poster](https://yepw.github.io/files/icra23_poster.pdf)] -->
+[[Pre-print](https://arxiv.org/pdf/2502.19591.pdf)]  [[Poster](https://yepw.github.io/files/icra25_poster.pdf)]
+<!--[[Supplementary Video](https://www.youtube.com/watch?v=_QVAetYbpEY)] [[Presentation Video](https://www.youtube.com/watch?v=IKy0Yda8p4)] -->
 
 
 <img src="./docs/thumbnail.png" width="560">
